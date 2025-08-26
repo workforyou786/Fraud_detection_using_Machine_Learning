@@ -49,7 +49,7 @@ The dataset used is a credit card transactions dataset (commonly from Kaggle
 
 🚀 Installation & Usage
 1️⃣ Clone the repository
-git clone https://github.com/your-username/fraud-detection-ml.git
+git clone https://github.com/workforyou786/Fraud_detection_using_Machine_Learning.git
 cd fraud-detection-ml
 
 2️⃣ Create a virtual environment & install dependencies
